@@ -1,7 +1,7 @@
 {
-  "name": "mcp-server",
+  "name": "node-mcp-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js server for the Model Context Protocol",
   "type": "module",
   "main": "index.js",
   "scripts": {
