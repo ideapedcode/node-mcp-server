@@ -112,7 +112,6 @@ This project implements the Model Context Protocol (MCP), which allows AI models
 - The file system server has full read/write access to the file system where it runs
 - The MongoDB connector has access to the configured database
 - Both servers should be deployed in secure environments with appropriate access controls
-- Validate all inputs when using these servers in production environments
 
 ## Contributing
 
